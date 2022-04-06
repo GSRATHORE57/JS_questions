@@ -90,3 +90,48 @@ class Test
     }
 }
 ```
+<hr/>
+
+```java
+class Test 
+{
+    public static void main(String [] args) 
+    {
+        int y = 10;
+        int x = ++y + y-- + ++y;
+        System.out.println(x);
+    }
+}
+```
+<hr />
+
+```java
+class Test 
+{
+   public static void main(String [] args) 
+    {
+        int x= 0;
+        int y= 0;
+        for (int z = 0; z < 5; z++) 
+        {
+            if (( ++x > 2 ) && (++y > 2)) 
+            {
+                x++;
+            }
+        }
+        System.out.println(x + " " + y);
+    }
+}
+```
+<hr/>
+
+```java
+class Test {
+public static void main(String[] args)
+    {
+        for (int i = 0; i < 10; i++)
+            int x = 10;
+    }
+}
+
+```
