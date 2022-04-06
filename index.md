@@ -1,3 +1,4 @@
+#### Question 1
 ```java
 class Test 
 {
@@ -22,6 +23,8 @@ class Test
 }
 ```
 <hr/>
+
+#### Question 2
 
 ```java
 class PassS 
@@ -50,6 +53,9 @@ class PassS
 
 <hr/>
 
+
+#### Question 3
+
 ```java
 
 class Test 
@@ -64,6 +70,8 @@ class Test
 
 ```
 <hr/>
+
+#### Question 4
 
 ```java
 class Test 
@@ -92,6 +100,8 @@ class Test
 ```
 <hr/>
 
+#### Question 5
+
 ```java
 class Test 
 {
@@ -104,6 +114,10 @@ class Test
 }
 ```
 <hr />
+
+
+#### Question 6
+
 
 ```java
 class Test 
@@ -125,13 +139,62 @@ class Test
 ```
 <hr/>
 
+#### Question 7
 ```java
 class Test {
-public static void main(String[] args)
+    public static void main(String[] args)
     {
         for (int i = 0; i < 10; i++)
             int x = 10;
     }
 }
 
+```
+<hr/>
+
+#### Question 8
+```java
+class Test {
+    public static void main(String[] args)
+    {
+        for (int i = 0, x = 3.145; i < 2; i++)
+            System.out.println(i+x);
+    }
+}
+
+```
+
+#### Question 9
+```java
+class Test {
+    public static void main(String[] args)
+    {
+        for (int i = 0, x = 3.145; i < 2; i++)
+            System.out.println(i+x);
+    }
+}
+```
+
+#### Question 10
+```java
+class Test {
+    public static void main(String[] args)
+    {
+        int i = 0;
+        for (System.out.println("Hello, World"); i < 1; i++)
+            System.out.println(++i);
+    }
+}
+```
+
+#### Question 11
+```java
+class Test {
+    public static void main(String[] args)
+    {
+        do while(true)
+          System.out.println("HELLO");
+        while(false);
+    }
+}
 ```
