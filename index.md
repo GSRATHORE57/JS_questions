@@ -188,6 +188,28 @@ class Test {
 ```
 
 #### Question 11
+
+Write a program to check if a number if a pallindrome. A number is a pallindrome if the reverse is equal to the number.
+
+E.g. 121 -> when the digits of 121 are reverse, they again form 121.
+
+121 -> Yes
+122 -> No
+143341 -> Yes
+
+#### Question 12
+
+Write a program to check if a number is a armstrong number. A positive integer is called an Armstrong number of order n if
+
+abcd... = a^n + b^n + c^n + d^n + ...
+
+For n=3, 153 = 1x1x1 + 5x5x5 + 3x3x3  // 153 is an Armstrong number.
+
+#### Question 13
+
+
+
+#### Question 14
 ```java
 class Test {
     public static void main(String[] args)
